@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1605444091 source:c:\users\wikas\onedrive\Рабочий стол\my files\codeblocks\sp\main.cpp
+	<random>
+	<iostream>
+	<cmath>
+	<random>
+	<chrono>
+
+1606724574 source:c:\users\wikas\onedrive\Рабочий стол\Современные проблемы прикладной математики и наукоемкого программного обеспечения\sp\main.cpp
+	<random>
+	<iostream>
+	<cmath>
+	<random>
+	<chrono>
+	<fstream>
+	<algorithm>
+	<vector>
+
+1606724574 source:c:\users\wikas\onedrive\Рабочий стол\Генерация выборки двустороннего экспоненциального распределения и расчёт простых оценок\main.cpp
+	<random>
+	<iostream>
+	<cmath>
+	<random>
+	<chrono>
+	<fstream>
+	<algorithm>
+	<vector>
+
